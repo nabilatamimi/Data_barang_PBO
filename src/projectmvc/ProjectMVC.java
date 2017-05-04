@@ -6,7 +6,8 @@
 package projectmvc;
 
 /**
- *author tomama
+ *
+ * @author tomama
  */
 public class ProjectMVC {
 
